@@ -6,7 +6,7 @@ import java.text.DecimalFormat;
 import java.util.Date;
 import java.util.HashMap;
 
-public class Answer3 {
+public class SimpsonsCounter {
     private static final int THREAD_COUNT = 3;
     private static final int CALLS = 100;
     private static final String API_URL = "http://metaphorpsum.com/paragraphs/10";
